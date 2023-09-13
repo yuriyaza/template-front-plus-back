@@ -1,11 +1,11 @@
 {
   "name": "template-front-plus-back",
   "version": "1.0.0",
+  "homepage": "//yuriyaza.github.io/template-front-plus-back/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "client": "npm start --prefix frontend",
     "server": "npm start --prefix backend"
   },
-  "license": "ISC",
-  "homepage": "https://github.com/yuriyaza/template-front-plus-back/"
+  "license": "ISC"
 }
