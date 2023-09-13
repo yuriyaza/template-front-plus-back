@@ -7,5 +7,8 @@
   "scripts": {
     "client": "npm start --prefix frontend",
     "server": "npm start:dev --prefix backend"
+  },
+  "dependencies": {
+    "@types/react-router-dom": "^5.3.3"
   }
 }
