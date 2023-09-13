@@ -1,0 +1,19 @@
+{
+  "name": "template-front-plus-back",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "npm start --prefix frontend",
+    "server": "npm start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriyaza/template-front-plus-back.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriyaza/template-front-plus-back/issues"
+  },
+  "homepage": "https://github.com/yuriyaza/template-front-plus-back#readme"
+}
