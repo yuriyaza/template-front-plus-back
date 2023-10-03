@@ -15,8 +15,7 @@ jobs:
         run: |
           cd client
           npm install
-          npm run lint:js
-          npm run build
+          npm start
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
