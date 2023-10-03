@@ -2,7 +2,7 @@
   "name": "goit-team-project-03",
   "version": "1.0.0",
   "description": "HealthyHub Project",
-  "homepage": "https://github.com/yuriyaza/template-front-plus-back/",
+  "homepage": "https://github.com/yuriyaza/template-front-plus-back/frontend/",
   "license": "ISC",
   "scripts": {
     "client": "npm run start --prefix frontend",
