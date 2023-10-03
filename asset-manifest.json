@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yuriyaza/template-front-plus-back/static/css/main.b5320759.css",
-    "main.js": "/yuriyaza/template-front-plus-back/static/js/main.25ad0025.js",
-    "index.html": "/yuriyaza/template-front-plus-back/index.html",
-    "main.b5320759.css.map": "/yuriyaza/template-front-plus-back/static/css/main.b5320759.css.map",
-    "main.25ad0025.js.map": "/yuriyaza/template-front-plus-back/static/js/main.25ad0025.js.map"
+    "main.css": "/yuriyaza/template-front-plus-back/frontend/static/css/main.b5320759.css",
+    "main.js": "/yuriyaza/template-front-plus-back/frontend/static/js/main.25ad0025.js",
+    "index.html": "/yuriyaza/template-front-plus-back/frontend/index.html",
+    "main.b5320759.css.map": "/yuriyaza/template-front-plus-back/frontend/static/css/main.b5320759.css.map",
+    "main.25ad0025.js.map": "/yuriyaza/template-front-plus-back/frontend/static/js/main.25ad0025.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
