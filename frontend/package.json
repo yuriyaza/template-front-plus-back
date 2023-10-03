@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/yuriyaza/template-front-plus-back/",
+  "homepage": "https://github.com/yuriyaza/template-front-plus-back/frontend/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
